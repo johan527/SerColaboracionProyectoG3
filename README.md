@@ -67,3 +67,13 @@
 13. **Configurar el Servicio Central de Administración:**
     - Elegir un puerto para la Administración Central de SharePoint y configurar la seguridad según sea necesario.
     - El asistente finalizará la configuración de la granja y lanzará la Administración Central de SharePoint, donde se podrán realizar configuraciones adicionales y gestionar el entorno de SharePoint.
+   
+
+### Autores
+
+José Julián Abarca Fallas
+Johan Matarrita Gómez
+Rubén Guevara Hernádez
+Valeria Ali Flores
+
+
